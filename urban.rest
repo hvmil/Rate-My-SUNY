@@ -1,0 +1,4 @@
+GET https://mashape-community-urban-dictionary.p.rapidapi.com/define?term=wat
+X-RapidAPI-Key: f3f8db9792msh7871b75c22e0ea9p183393jsncf37b755dc9c
+X-RapidAPI-Host: mashape-community-urban-dictionary.p.rapidapi.com
+
